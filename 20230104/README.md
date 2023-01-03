@@ -5,6 +5,8 @@
 
 ## 스터디 분량
 - Chapter13~18
+- 그룹스터디 1월 계획 작성
+- 그룹스터디 워크샵 발표자료 제작 및 발표 인원 정하기
 
 ## 링크
 - [장현준](https://github.com/CodaGorocat/GroupStudy/blob/develop/20230104/%EC%9E%A5%ED%98%84%EC%A4%80.md)
