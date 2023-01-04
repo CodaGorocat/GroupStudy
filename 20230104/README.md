@@ -17,4 +17,5 @@
 - [이병욱](https://github.com/CodaGorocat/GroupStudy/blob/develop/20230104/%EC%9D%B4%EB%B3%91%EC%9A%B1.md)
 
 ## 다음 스터디 진행사항
-- 작성중..
+- chapter24까지 자료 정리
+- 코딩테스트 3문제 풀기
