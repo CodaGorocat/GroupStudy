@@ -14,16 +14,16 @@
 ---
 ## 스터디원
 - 조장
-  - 장현준(https://github.com/hyeon17)
+  - [장현준](https://github.com/hyeon17)
 - 조원
-  - 유선주(https://github.com/yousunzoo)
-  - 이어진(https://github.com/boyon99)
-  - 김영은(https://github.com/www-r)
-  - 이지영(https://github.com/gygy7151)
-  - 이병욱(https://github.com/lbw3973)
+  - [유선주](https://github.com/yousunzoo)
+  - [이어진](https://github.com/boyon99)
+  - [김영은](https://github.com/www-r)
+  - [이지영](https://github.com/gygy7151)
+  - [이병욱](https://github.com/lbw3973)
 ---
 ## 스터디 활동
 - [20221228](/20221228)
-
+- [20230104](/20230104)
 ---
 ## 작성중..

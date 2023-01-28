@@ -1,7 +1,7 @@
 # 스터디 진행사항
 
 ## 교재
-- 모던 자바스크립트 딥다이브(https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=251552545)
+- [모던 자바스크립트 딥다이브](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=251552545)
 
 ## 스터디 분량
 - Chapter1~12
@@ -15,4 +15,6 @@
 - [이병욱](/20221228/%EC%9D%B4%EB%B3%91%EC%9A%B1.md)
 
 ## 다음 스터디 진행사항
-- 작성중..
+- 2023.01.04. 13:00에 진행
+- chapter 18까지 완독 및 블로그 작성
+- 자율적으로 각 챕터 관련된 코테문제 들고오기
